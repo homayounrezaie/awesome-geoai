@@ -10,6 +10,8 @@
 
 </div>
 
+GeoAI resources are scattered across model releases, dataset portals, research labs, startups, satellite providers, drone workflows, and deployment stacks. This repo organizes the critical pieces in one place so you can quickly find what exists, compare options, and decide what is useful for research, prototyping, or production geospatial AI systems.
+
 ## Explore
 
 | Area | What you will find |
