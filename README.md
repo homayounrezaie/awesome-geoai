@@ -16,7 +16,7 @@ GeoAI resources are scattered across model releases, dataset portals, research l
 
 | Area | What you will find |
 | --- | --- |
-| [Models](models/README.md) | Geospatial foundation models and notebooks |
+| [Models](models/README.md) | Geospatial foundation models and notebook examples |
 | [Datasets](datasets/README.md) | Open geospatial datasets in Markdown, CSV, and JSON |
 | [Companies](companies/README.md) | GeoAI, Earth observation, and mapping companies |
 | [Drones](drones/) | UAV platforms, aerial data, and drone mapping resources |
