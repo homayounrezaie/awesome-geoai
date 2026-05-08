@@ -2,7 +2,7 @@
 
 # Awesome GeoAI
 
-**A curated map of geospatial AI resources: models, datasets, companies, papers, and production tools.**
+**A curated map of geospatial AI resources: models, datasets, companies, drones, satellites, and production tools.**
 
 [![GeoAI](https://img.shields.io/badge/focus-GeoAI-2F80ED)](#)
 [![Resources](https://img.shields.io/badge/resources-curated-27AE60)](#)
@@ -17,8 +17,9 @@
 | [Models](models/README.md) | Geospatial foundation models and notebooks |
 | [Datasets](datasets/README.md) | Open geospatial datasets in Markdown, CSV, and JSON |
 | [Companies](companies/README.md) | GeoAI, Earth observation, and mapping companies |
+| [Drones](drones/) | UAV platforms, aerial data, and drone mapping resources |
+| [Satellites](satellites/) | Satellite platforms, sensors, and Earth observation resources |
 | [Stack](stack/1-py-libraries.md) | Libraries, frameworks, platforms, tools, MLOps, and deployment |
-| [Papers](papers/) | Research references and PDFs |
 
 ## Start Here
 
